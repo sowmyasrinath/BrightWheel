@@ -12,3 +12,6 @@ How to run:
 
 python brightwheels.py
 
+brightwheels.sql file has queries for the below questions:
+- How many Family Child Care Home providers are there in the dataset?
+- Which Zip code has the most providers?
